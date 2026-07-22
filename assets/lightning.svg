@@ -1,0 +1,32 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="boltGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00fff2"/>
+      <stop offset="50%" stop-color="#a200ff"/>
+      <stop offset="100%" stop-color="#ff00e5"/>
+    </linearGradient>
+    <filter id="boltGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- flash flicker background -->
+  <rect width="900" height="200" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0.08;0;0;0.03;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M470,10 L390,95 L440,95 L360,190 L500,100 L440,100 Z"
+        fill="none" stroke="url(#boltGrad)" stroke-width="6"
+        stroke-linejoin="round" stroke-linecap="round"
+        filter="url(#boltGlow)" pathLength="100">
+    <animate attributeName="stroke-dasharray" values="0,100;100,100;100,100" keyTimes="0;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0.2;1" keyTimes="0;0.7;0.85;1" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M470,10 L390,95 L440,95 L360,190 L500,100 L440,100 Z"
+        fill="url(#boltGrad)" opacity="0.15"/>
+</svg>

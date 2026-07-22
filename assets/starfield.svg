@@ -1,0 +1,50 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="space" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#120024"/>
+      <stop offset="100%" stop-color="#02010a"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="160" fill="url(#space)" rx="14"/>
+
+  <g fill="#ffffff">
+    <circle cx="40" cy="30" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="80" r="1.2"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="40" r="1.8"><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="210" cy="110" r="1.3"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="60" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="20" r="1.1"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="100" r="1.7"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="55" r="1.2"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="130" r="1.4"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="35" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="590" cy="90" r="1.1"><animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="15" r="1.8"><animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="120" r="1.3"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="70" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="45" r="1.2"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="105" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="60" r="1.4"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="25" r="1.7"><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- big rotating sparkles -->
+  <g fill="#00fff2" opacity="0.9">
+    <g transform="translate(150,80)">
+      <path d="M0,-12 L3,-3 L12,0 L3,3 L0,12 L-3,3 L-12,0 L-3,-3 Z"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 150 80" to="360 150 80" dur="6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g fill="#ff00e5" opacity="0.9">
+    <g transform="translate(500,50)">
+      <path d="M0,-10 L2.5,-2.5 L10,0 L2.5,2.5 L0,10 L-2.5,2.5 L-10,0 L-2.5,-2.5 Z"/>
+      <animateTransform attributeName="transform" type="rotate" from="360 500 50" to="0 500 50" dur="7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g fill="#fff700" opacity="0.9">
+    <g transform="translate(830,90)">
+      <path d="M0,-11 L2.7,-2.7 L11,0 L2.7,2.7 L0,11 L-2.7,2.7 L-11,0 L-2.7,-2.7 Z"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 830 90" to="360 830 90" dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

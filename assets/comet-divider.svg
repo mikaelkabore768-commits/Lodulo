@@ -1,0 +1,29 @@
+<svg width="1000" height="30" viewBox="0 0 1000 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff004c" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#00d0ff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#a200ff" stop-opacity="0.5"/>
+    </linearGradient>
+    <radialGradient id="cometGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#00fff2"/>
+      <stop offset="100%" stop-color="#00fff2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="cglow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="13" width="1000" height="2" fill="url(#lineGrad)"/>
+
+  <g filter="url(#cglow)">
+    <circle cx="0" cy="15" r="6" fill="url(#cometGrad)">
+      <animate attributeName="cx" values="-20;1020" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="-60" y="13.5" width="60" height="3" fill="url(#cometGrad)" opacity="0.6">
+      <animate attributeName="x" values="-80;960" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

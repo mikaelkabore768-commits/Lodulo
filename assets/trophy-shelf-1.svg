@@ -1,0 +1,86 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="tbg" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#150029"/>
+      <stop offset="100%" stop-color="#02000a"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff6b0"/>
+      <stop offset="100%" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8fff9"/>
+      <stop offset="100%" stop-color="#00e0ff"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffd6fa"/>
+      <stop offset="100%" stop-color="#ff2fd6"/>
+    </linearGradient>
+    <filter id="tglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="220" rx="16" fill="url(#tbg)"/>
+
+  <!-- floor glow line -->
+  <rect x="60" y="185" width="880" height="3" fill="#ffffff" opacity="0.12"/>
+
+  <!-- trophy template function repeated manually -->
+  <g filter="url(#tglow)">
+
+    <!-- Trophy 1 : VDZ ZONE -->
+    <g transform="translate(210,150)">
+      <animateTransform attributeName="transform" type="translate" values="210,150; 210,142; 210,150" dur="2.6s" repeatCount="indefinite" additive="sum"/>
+      <rect x="-14" y="18" width="28" height="10" rx="2" fill="url(#gold)"/>
+      <rect x="-22" y="28" width="44" height="8" rx="2" fill="url(#gold)"/>
+      <path d="M-20,-40 h40 v22 a20,20 0 0 1 -40,0 z" fill="url(#gold)"/>
+      <path d="M-20,-32 c-16,0 -16,26 0,26" fill="none" stroke="url(#gold)" stroke-width="4"/>
+      <path d="M20,-32 c16,0 16,26 0,26" fill="none" stroke="url(#gold)" stroke-width="4"/>
+      <text x="0" y="45" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ffe27a">VDZ ZONE</text>
+    </g>
+
+    <!-- Trophy 2 : VENDROZ -->
+    <g transform="translate(410,150)">
+      <animateTransform attributeName="transform" type="translate" values="410,150; 410,140; 410,150" dur="3.1s" begin="0.4s" repeatCount="indefinite" additive="sum"/>
+      <rect x="-14" y="14" width="28" height="10" rx="2" fill="url(#cyan)"/>
+      <rect x="-22" y="24" width="44" height="8" rx="2" fill="url(#cyan)"/>
+      <path d="M-18,-44 h36 v24 a18,18 0 0 1 -36,0 z" fill="url(#cyan)"/>
+      <path d="M-18,-36 c-15,0 -15,24 0,24" fill="none" stroke="url(#cyan)" stroke-width="4"/>
+      <path d="M18,-36 c15,0 15,24 0,24" fill="none" stroke="url(#cyan)" stroke-width="4"/>
+      <text x="0" y="45" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#9df6ff">VENDROZ</text>
+    </g>
+
+    <!-- Trophy 3 : COMMUNITY -->
+    <g transform="translate(610,150)">
+      <animateTransform attributeName="transform" type="translate" values="610,150; 610,143; 610,150" dur="2.3s" begin="0.2s" repeatCount="indefinite" additive="sum"/>
+      <rect x="-12" y="12" width="24" height="9" rx="2" fill="url(#pink)"/>
+      <rect x="-19" y="21" width="38" height="7" rx="2" fill="url(#pink)"/>
+      <path d="M-16,-38 h32 v20 a16,16 0 0 1 -32,0 z" fill="url(#pink)"/>
+      <path d="M-16,-31 c-13,0 -13,20 0,20" fill="none" stroke="url(#pink)" stroke-width="3.5"/>
+      <path d="M16,-31 c13,0 13,20 0,20" fill="none" stroke="url(#pink)" stroke-width="3.5"/>
+      <text x="0" y="40" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ffb0f2">COMMUNITY</text>
+    </g>
+
+    <!-- Trophy 4 : UPTIME -->
+    <g transform="translate(790,150)">
+      <animateTransform attributeName="transform" type="translate" values="790,150; 790,141; 790,150" dur="2.8s" begin="0.6s" repeatCount="indefinite" additive="sum"/>
+      <rect x="-13" y="16" width="26" height="9" rx="2" fill="url(#gold)"/>
+      <rect x="-20" y="25" width="40" height="7" rx="2" fill="url(#gold)"/>
+      <path d="M-17,-42 h34 v22 a17,17 0 0 1 -34,0 z" fill="url(#gold)"/>
+      <path d="M-17,-35 c-14,0 -14,22 0,22" fill="none" stroke="url(#gold)" stroke-width="3.5"/>
+      <path d="M17,-35 c14,0 14,22 0,22" fill="none" stroke="url(#gold)" stroke-width="3.5"/>
+      <text x="0" y="43" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ffe27a">UPTIME</text>
+    </g>
+  </g>
+
+  <!-- sparkles floating around -->
+  <g fill="#ffffff">
+    <circle cx="150" cy="60" r="2"><animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="40" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="55" r="2"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="35" r="1.8"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="60" r="2.2"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

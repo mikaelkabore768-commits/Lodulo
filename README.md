@@ -117,12 +117,8 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 ## 🫟𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐐𝐔𝐄𝐒🫟:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mikaelkabore768-commits&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFF00" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaelkabore768-commits&theme=dracula&hide_border=true&background=000000&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFF00" width="49%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelkabore768-commits&layout=compact&theme=dracula&hide_border=true&bg_color=000000&title_color=FF00FF&text_color=00FFFF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaelkabore768-commits&theme=dracula&hide_border=true&background=000000&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFF00" width="69%"/>
 </div>
 
 <br/>

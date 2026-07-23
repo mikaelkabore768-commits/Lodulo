@@ -138,12 +138,18 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <div align="center">
 <img src="assets/comet-divider.svg" width="100%"/>
 </div>
+𝐕𝐈𝐒𝐈𝐓 𝐓𝐇𝐄 𝐁𝐎𝐓𝐒 𝐂𝐀𝐓𝐀𝐋𝐎𝐆𝐔𝐄:
+
+     `httpd://vdz-zone-v5.vercell.app`    
 
 
 <div align="center">
 <img src="assets/starfield.svg" width="100%"/>
-</div>
 
+> ѵƭƶ ƒαɱเℓℓყ รµρρσɾƭ
+
+> 𝐁𝐘 𝐓𝐇𝐄 𝐒𝐋𝐈𝐌𝐄 𝐓𝐄𝐂𝐇 𝐄𝐌𝐏𝐈𝐑𝐄
+  
 <div align="center">
 <img src="assets/neon-divider.svg" width="100%"/>
 </div>
@@ -151,7 +157,4 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,17:8A2BE2,33:00BFFF,50:00FF7F,66:FFFF00,83:FF7F00,100:FF0000&height=160&section=footer" width="100%"/>
-
-<sub>🔥✨ ѵƭƶ ƒαɱเℓℓყ รµρρσɾƭ — The Slime Tech Empire ✨🔥</sub>
-
 </div>

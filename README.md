@@ -76,7 +76,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <br/>
 
 <a href="https://t.me/APK_MOD_BY_STE">
-<img src="https://img.shields.io/badge/_Telegram-APK_MOD_by_STE-FFD700?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Telegram-APK_MOD_by_STE-FFD700?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://t.me/SLIME_TECH_EMPIRE">
 <img src="https://img.shields.io/badge/_Telegram-Slime_Tech_Empire-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
@@ -85,7 +85,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <br/>
 
 <a href="https://discord.gg/t3tnGcKBbH">
-<img src="https://img.shields.io/badge/_Discord-Rejoindre_le_serveur-00FFFF?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Discord-Rejoindre_le_serveur-00FFFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://matrix.to/#/!zkfJlWIvPOcgIWhGPm:matrix.org?via=matrix.org">
 <img src="https://img.shields.io/badge/_Matrix-Salon_officiel-FF7F00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000" />
@@ -136,7 +136,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 </div>
 𝐕𝐈𝐒𝐈𝐓 𝐓𝐇𝐄 𝐁𝐎𝐓𝐒 𝐂𝐀𝐓𝐀𝐋𝐎𝐆𝐔𝐄:
 
-     httpd://vdz-zone-v5.vercell.app   
+     httpd://vdz-zone-v5.vercel.app   
 
 
 <div align="center">

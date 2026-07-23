@@ -9,16 +9,17 @@
 <img src="assets/neon-divider.svg" width="100%"/>
 
 <a href="https://github.com/mikaelkabore768-commits">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+VDZ+ZONE+%E2%9A%A1;%F0%9F%94%A5+Bots+WhatsApp+%2B+Marketplace+%F0%9F%94%A5;%F0%9F%92%9C+FedaPay+%C2%B7+Supabase+%C2%B7+Cloudflare+%F0%9F%92%9C;%F0%9F%91%91+The+Black+King+Lucifero+%F0%9F%91%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+VDZ+ZONE+%E2%9A%A1;%F0%9F%91%91+Bots+WhatsApp+%2B+Tools+%F0%9F%91%91;%F0%9F%91%91+Slime+Tech+Empire+%C2%B7+vdzFamily+%F0%9F%91%91;%F0%9F%91%91+The+Black+King+Lucifero+%F0%9F%91%91" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔮_LANGUE-FRANÇAIS-00FFFF?style=for-the-badge&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=mikaelkabore768-commits&label=✨+VISITEURS&color=FFFF00&style=for-the-badge" />
+<img 
+src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the-badge&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/_LANGUE-FRANÇAIS-00FFFF?style=for-the-badge&labelColor=000000" /><br/>
+<img src="https://komarev.com/ghpvc/?username=mikaelkabore768-commits&label=🫟+VISITEURS&color=FF0030&style=for-the-badge" /><br/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/comet-divider.svg" width="100%"/>
 

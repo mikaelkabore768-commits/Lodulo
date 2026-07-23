@@ -25,6 +25,8 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 
 </div>
 
+### 🫟𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐔𝐄 À 𝐋𝐀 𝐒𝐋𝐈𝐌𝐄 𝐓𝐄𝐂𝐇 𝐄𝐌𝐏𝐈𝐑𝐄🫟
+
 <br/>
 
 <div align="center">
@@ -34,14 +36,18 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 
 <br/>
 
-## 🌈 Ce que je construis
+## 🫟𝐍𝐎𝐒 𝐁𝐑𝐀𝐍𝐂𝐇𝐄𝐒:
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub-README/main/images/pusheen-cat-vibing.gif">
+<img align="right" width="100" src="./assets/stick-main.webp">
 
-Deux projets actifs, pensés pour le marché **ouest-africain** : paiement mobile money, distribution de contenu, et outils communautaires.
 
-- 🔴 **VDZ ZONE** — plateforme de distribution de bots WhatsApp (web bots & zip bots), avec système de tickets, leaderboard, tutoriels vidéo et panels d'hébergement gratuits.
-- 🟢 **Vendroz** — marketplace de produits digitaux (PDF, ZIP, APK, VCF, MP4) avec paiement mobile money intégré (Orange Money, Moov Money, Wave).
+ * - 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓𝐒
+ * - 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐁𝐎𝐓𝐒
+ * - 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐁𝐎𝐓𝐒
+ * - 𝐅𝐑𝐄𝐄 𝐓𝐎𝐎𝐋𝐒 𝐏𝐔𝐁𝐋𝐈𝐒𝐇
+ * - 𝐒𝐈𝐓𝐄𝐒
+ * - 𝐎𝐏𝐄𝐍 𝐒𝐎𝐔𝐑𝐂𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+ * - 𝐀𝐂𝐓𝐈𝐎𝐍𝐒 𝐀𝐈
 
 <br clear="right"/>
 

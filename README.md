@@ -140,7 +140,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 </div>
 𝐕𝐈𝐒𝐈𝐓 𝐓𝐇𝐄 𝐁𝐎𝐓𝐒 𝐂𝐀𝐓𝐀𝐋𝐎𝐆𝐔𝐄:
 
-     `httpd://vdz-zone-v5.vercell.app`    
+     httpd://vdz-zone-v5.vercell.app   
 
 
 <div align="center">

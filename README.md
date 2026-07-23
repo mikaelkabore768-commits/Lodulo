@@ -35,9 +35,9 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 
 <br/>
 
-## 🫟𝐍𝐎𝐒 𝐁𝐑𝐀𝐍𝐂𝐇𝐄𝐒:
+## 🫟𝐍𝐎𝐒 𝐁𝐑𝐀𝐍𝐂𝐇𝐄𝐒🫟:
 <div align="center">
-<img src="./assets/stick-main.webp" width="100%"/>
+<img src="./assets/stick-main.webp" width="135"/>
 </div>
 
 
@@ -48,6 +48,8 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
  * - 𝐒𝐈𝐓𝐄𝐒
  * - 𝐎𝐏𝐄𝐍 𝐒𝐎𝐔𝐑𝐂𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
  * - 𝐀𝐂𝐓𝐈𝐎𝐍𝐒 𝐀𝐈
+ * - 𝐀𝐏𝐊 𝐌𝐎𝐃𝐒
+ * - 𝐇4𝐂𝐊 𝐆𝐀𝐌𝐄𝐒 𝐏𝐑𝐎𝐏𝐄𝐑
 
 <br clear="right"/>
 
@@ -57,39 +59,39 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 
 <br/>
 
-## ⚡ Liens & communautés
+## 🫟𝐍𝐎𝐒 𝐋𝐈𝐄𝐍𝐒 𝐄𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐀𝐔𝐓É𝐒🫟:
 
 <div align="center">
 
 <a href="https://vdz-zone-v5.vercel.app/">
-<img src="https://img.shields.io/badge/🔥_VDZ_ZONE-Site_officiel-FF0040?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_VDZ_ZONE-Site_officiel-FF0040?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://whatsapp.com/channel/0029Vb8Ut4b77qVXWbNtzv26">
-<img src="https://img.shields.io/badge/💚_WhatsApp-Chaîne_officielle-00FF7F?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_WhatsApp-Chaîne_officielle-00FF7F?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://t.me/TheBlackKingLuciferoChannel">
-<img src="https://img.shields.io/badge/💙_Telegram-Black_King_Lucifero-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Telegram-Black_King_Lucifero-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </a>
 
 <br/>
 
 <a href="https://t.me/APK_MOD_BY_STE">
-<img src="https://img.shields.io/badge/💛_Telegram-APK_MOD_by_STE-FFD700?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Telegram-APK_MOD_by_STE-FFD700?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000000" />
 </a>
 <a href="https://t.me/SLIME_TECH_EMPIRE">
-<img src="https://img.shields.io/badge/💜_Telegram-Slime_Tech_Empire-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Telegram-Slime_Tech_Empire-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </a>
 
 <br/>
 
 <a href="https://discord.gg/t3tnGcKBbH">
-<img src="https://img.shields.io/badge/🩵_Discord-Rejoindre_le_serveur-00FFFF?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Discord-Rejoindre_le_serveur-00FFFF?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
 </a>
 <a href="https://matrix.to/#/!zkfJlWIvPOcgIWhGPm:matrix.org?via=matrix.org">
-<img src="https://img.shields.io/badge/🧡_Matrix-Salon_officiel-FF7F00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Matrix-Salon_officiel-FF7F00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://github.com/kinglucifero456-glitch">
-<img src="https://img.shields.io/badge/💗_GitHub-King_Lucifero-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_GitHub-King_Lucifero-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 </div>
@@ -100,7 +102,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 
 <br/>
 
-## 🛠️ Stack technique
+## 🫟𝐒𝐓𝐀𝐂𝐊 𝐓𝐄𝐂𝐇𝐍𝐈𝐐𝐔𝐄🫟:
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,supabase,cloudflare,py,git,github&theme=dark" />
@@ -112,7 +114,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <img src="assets/neon-divider.svg" width="100%"/>
 </div>
 
-## 📊 Statistiques GitHub
+## 🫟𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐐𝐔𝐄𝐒🫟:
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mikaelkabore768-commits&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFF00" width="49%"/>
@@ -125,7 +127,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 
 <br/>
 
-## 📈 Activité en direct
+## 🫟𝐀𝐂𝐓𝐈𝐕𝐈𝐓É𝐒🫟:
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaelkabore768-commits&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFF00&hide_border=true&area=true&area_color=FF00FF" width="90%"/>
@@ -137,29 +139,9 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <img src="assets/comet-divider.svg" width="100%"/>
 </div>
 
-## 🏆 Trophées
-
-> Fait maison — ne dépend d'aucun service externe, ne cassera jamais.
-
-<div align="center">
-<img src="assets/trophy-shelf.svg" width="90%"/>
-</div>
-
-<br/>
 
 <div align="center">
 <img src="assets/starfield.svg" width="100%"/>
-</div>
-
-## 🐍 Le serpent arc-en-ciel mange mes contributions
-
-> ⚠️ **Cette image reste cassée tant que tu n'as pas fait ceci une fois :**
-> 1. Ajoute `snake.yml` dans `.github/workflows/` de ce dépôt
-> 2. Va dans l'onglet **Actions** du repo → lance le workflow manuellement une première fois (`Run workflow`)
-> 3. Attends 1-2 min qu'il crée la branche `output` → l'image apparaît automatiquement, plus jamais besoin d'y toucher
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mikaelkabore768-commits/mikaelkabore768-commits/output/github-contribution-grid-snake-rainbow.svg" width="90%"/>
 </div>
 
 <div align="center">

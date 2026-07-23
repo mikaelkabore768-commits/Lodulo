@@ -30,15 +30,15 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <br/>
 
 <div align="center">
-<img src="assets/starfield.svg" width="100%"/>
 <img src="assets/sigil.svg" width="180"/>
 </div>
 
 <br/>
 
 ## 🫟𝐍𝐎𝐒 𝐁𝐑𝐀𝐍𝐂𝐇𝐄𝐒:
-
-<img align="right" width="100" src="./assets/stick-main.webp">
+<div align="center">
+<img src="./assets/stick-main.webp" width="100%"/>
+</div>
 
 
  * - 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓𝐒

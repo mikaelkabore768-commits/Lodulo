@@ -60,8 +60,11 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <br/>
 
 ## 🫟𝐍𝐎𝐒 𝐋𝐈𝐄𝐍𝐒 𝐄𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐀𝐔𝐓É𝐒🫟:
-
 <div align="center">
+<img src="./assets/about.jpg" width="200"/>
+</div>
+
+<div align="left">
 
 <a href="https://vdz-zone-v5.vercel.app/">
 <img src="https://img.shields.io/badge/_VDZ_ZONE-Site_officiel-FF0040?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
@@ -88,7 +91,7 @@ src="https://img.shields.io/badge/_STATUS-EN_DÉVELOPPEMENT-FF0080?style=for-the
 <img src="https://img.shields.io/badge/_Discord-Rejoindre_le_serveur-00FFFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://matrix.to/#/!zkfJlWIvPOcgIWhGPm:matrix.org?via=matrix.org">
-<img src="https://img.shields.io/badge/_Matrix-Salon_officiel-FF7F00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/_Matri𝐗-Salon_officiel-FF7F00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://github.com/kinglucifero456-glitch">
 <img src="https://img.shields.io/badge/_GitHub-King_Lucifero-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
